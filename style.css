@@ -3,18 +3,12 @@ body {
     color:blue;
     font-size: 25px;
 }
-#id{ 
-   color:purple ; 
-}
 
  h1{
     color:green ;
  }
-.main-header {
+.white-font{
    color: white;
- }
- .main-header {
-   color: black;
- }
+}
  
    
